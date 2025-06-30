@@ -1,0 +1,51 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Methodology Section}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Experiment}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Fitting Procedures}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Model Selection}{2}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Models}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Random Response (rr)}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Contextual Random Response (crr)}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Win-Stay, Lose-Shift (wsls)}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Rescorla-Wagner (rw)}{3}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Contextual Rescorla-Wagner (crw)}{4}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Choice-Kernel (ck)}{4}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Contextual Rescorla-Wagner and Choice-Kernel (crwck)}{4}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Contextual Rescorla-Wagner and Choice-Kernel Shared Alpha (crwcksa)}{5}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Contextual Rescorla-Wagner and Choice-Kernel No Beta (crwcknb)}{5}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Contextual Rescorla-Wagner and Choice-Kernel All (crwck\_all)}{5}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Contextual Rescorla-Wagner and Choice-Kernel Pre-Fitted (crwck\_pre)}{5}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Contextual Rescorla-Wagner and Choice-Kernel Initialised (crwck\_init)}{5}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Contextual Rescorla-Wagner and Choice-Kernel Plus (crwck\_plus)}{6}{subsection.3.13}%
+\contentsline {subsection}{\numberline {3.14}Contextual Rescorla-Wagner and Choice-Kernel Shared Alpha Plus (crwcksa\_plus)}{6}{subsection.3.14}%
+\contentsline {subsection}{\numberline {3.15}Contextual Rescorla-Wagner and Choice-Kernel Plus Pre-Fitted (crwck\_plus\_pre)}{6}{subsection.3.15}%
+\contentsline {subsection}{\numberline {3.16}Contextual Rescorla-Wagner and Choice-Kernel Plus Initialised (crwck\_plus\_init)}{6}{subsection.3.16}%
+\contentsline {section}{\numberline {4}Model Selection}{7}{section.4}%
+\contentsline {section}{\numberline {5}Parameter Comparison}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Random Response (rr) Parameter Comparison}{8}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Contextual Random Response (crr) Parameter Comparison}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Win-Stay, Lose-Shift (wsls) Parameter Comparison}{10}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Rescorla-Wagner (rw) Parameter Comparison}{11}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Contextual Rescorla-Wagner (crw) Parameter Comparison}{12}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Choice-Kernel (ck) Parameter Comparison}{13}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Contextual Rescorla-Wagner Choice-Kernel (crwck) Parameter Comparison}{14}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.1}Contextual Rescorla-Wagner Choice-Kernel (crwck) Parameter Correlation Matrix}{14}{subsubsection.5.7.1}%
+\contentsline {subsection}{\numberline {5.8}Contextual Rescorla-Wagner Choice-Kernel (crwcknb) No Beta Parameter Comparison}{15}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Contextual Rescorla-Wagner Choice-Kernel All (crwck\_all) Parameter Comparison}{16}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}Contextual Rescorla-Wagner Choice-Kernel Shared Alpha (crwcksa) Parameter Comparison}{17}{subsection.5.10}%
+\contentsline {subsubsection}{\numberline {5.10.1}Contextual Rescorla-Wagner Choice-Kernel Shared Alpha (crwcksa) Parameter Correlation Matrix}{17}{subsubsection.5.10.1}%
+\contentsline {subsection}{\numberline {5.11}Contextual Rescorla-Wagner Choice-Kernel Pre-Fitted (crwck\_pre) Parameter Comparison}{18}{subsection.5.11}%
+\contentsline {subsubsection}{\numberline {5.11.1}Contextual Rescorla-Wagner Choice-Kernel Pre-Fitted (crwck\_pre) Parameter Correlation Matrix}{18}{subsubsection.5.11.1}%
+\contentsline {subsection}{\numberline {5.12}Contextual Rescorla-Wagner Choice-Kernel Initialised (crwck\_init) Parameter Comparison}{19}{subsection.5.12}%
+\contentsline {subsection}{\numberline {5.13}Contextual Rescorla-Wagner Choice-Kernel Plus Parameter Comparison}{20}{subsection.5.13}%
+\contentsline {subsubsection}{\numberline {5.13.1}Contextual Rescorla-Wagner Choice-Kernel Plus Parameter Correlation Matrix}{20}{subsubsection.5.13.1}%
+\contentsline {subsection}{\numberline {5.14}Contextual Rescorla-Wagner Choice-Kernel Shared Alpha Plus Parameter Comparison}{21}{subsection.5.14}%
+\contentsline {subsubsection}{\numberline {5.14.1}Contextual Rescorla-Wagner Choice-Kernel Shared Alpha Plus Parameter Correlation Matrix}{21}{subsubsection.5.14.1}%
+\contentsline {subsection}{\numberline {5.15}Contextual Rescorla-Wagner Choice-Kernel Plus Pre-Fitted Parameter Comparison}{22}{subsection.5.15}%
+\contentsline {subsubsection}{\numberline {5.15.1}Contextual Rescorla-Wagner Choice-Kernel Plus Pre-Fitted Parameter Correlation Matrix}{22}{subsubsection.5.15.1}%
+\contentsline {subsection}{\numberline {5.16}Contextual Rescorla-Wagner Choice-Kernel Plus Initialised Parameter Comparison}{23}{subsection.5.16}%
+\contentsline {section}{\numberline {6}Order Effects}{24}{section.6}%
+\contentsline {section}{\numberline {7}Model Prediction versus Reality}{33}{section.7}%
+\contentsline {section}{\numberline {8}Discussion}{37}{section.8}%
+\contentsline {section}{References}{38}{section.8}%
+\contentsfinish 
