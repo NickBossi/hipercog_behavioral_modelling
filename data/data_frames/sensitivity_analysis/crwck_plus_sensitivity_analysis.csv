@@ -1,0 +1,2 @@
+alpha_rw (true),alpha_ck (true),beta_rw (true),beta_ck (true),N,alpha_rw (pred),alpha_ck (pred),beta_rw (pred),beta_ck (pred)
+0.1,0.1,0.1,0.1,1,0.0,0.0,1.0,1.0
